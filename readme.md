@@ -1,4 +1,4 @@
-ReadMe:
+
 "By Following this readme document, you may understand the files and their usage."
 "This is used for Reinforcement Learning Modeling Club. There are two folders: references, rcodes"
 "Outside is the slides that is used in modeling club, following the slides, you are able to know about reinforcement learning and how we construct models step-by-step."
