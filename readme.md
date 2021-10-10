@@ -10,5 +10,7 @@ In the Rcodes folder, there are two subfolders: rcodes and exercies. Rcodes cont
 
 "To watch the video, you can visit  https://www.bilibili.com/video/BV1pB4y1c7yh?spm_id_from=333.999.0.0  in RL chapter."
 
+References are available at: https://osf.io/8fd26/?view_only=57e0f70b6d1e4e2fb050c385d745447c
+
 Enjoy your RL journey! 
 Hanbo
