@@ -5,10 +5,6 @@ ReadMe:
 "Inside the reference folder, there are some essays mentioned in the slides, so in convenience you can directly get access to them instead of finding online. There might be some other papers that are not mentioned. But they are relevant so I hope they can be useful!"
 "In the Rcodes folder, there are two subfolders: rcodes and exercies. Rcodes contains all codes we use to present the slides, run the simulation and interactive demos. If you are more interested and chanllenging, you can try exercise codes and implement the incompleted codes to replicate our results. Hope this can make you a head start on simulation."
 "If you have any questions, you can email hanboxie1997@163.com to me."
-<<<<<<< HEAD
 "To watch the video, you can visit  https://www.bilibili.com/video/BV1pB4y1c7yh?spm_id_from=333.999.0.0  in RL chapter."
-=======
-To watch the video, you can visit  https://www.bilibili.com/video/BV1pB4y1c7yh?spm_id_from=333.999.0.0   in RL chapter.
->>>>>>> 7c5d1d9e403a5281e2996990e17cdd3ca9f459c1
 Enjoy your RL journey! 
 Hanbo
